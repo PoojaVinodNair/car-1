@@ -15,7 +15,7 @@ game .start();
 }
 
 function draw(){
-  background("white");
+  background("blue");
   
    
     
